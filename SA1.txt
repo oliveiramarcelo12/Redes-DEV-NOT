@@ -1,0 +1,25 @@
+Sala da administração
+2 computadores  Sec1 e Sec2.
+2 Impressoaras.
+O computador Sec1 é utilizado para registro de notas e emissão de boletins na
+impressora jato de tinta, conhecida por Sprn1
+O computador Sec2 é utilizado para
+registro dos pagamentos efetuados e emissão dos carnês na impressora laser, conhecida
+por Sprn2.
+1 pen drive.
+
+biblioteca
+1 computador Bib1
+1 Pendrive
+
+ Sala de estudos
+1 Computador Est1
+1 Impressora 
+
+Sala dos professores
+2 Computadores Prof1 e Prof2
+1 Chaveador
+2 Impressoras
+1 Pendrive
+
+

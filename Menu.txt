@@ -1,0 +1,16 @@
+@echo off
+cls
+:menu
+cls
+color 80
+date /t
+echo Computador: %computer% Usuario: %username%
+echo     MENU TAREFAS
+echo   ====================================
+echo * 1. Esvaziar a Lixeira               *
+echo * 2. Fazer Backup                     *
+echo * 3. Escanear Disco Local             *
+echo * 4. Painel de Controle               *
+echo * 5. Sair                             *
+echo  ======================================
+ 
